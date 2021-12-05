@@ -2,8 +2,8 @@
 
 ## I'm working as an Investment & Data Analyst, Trader and Web Developer!!
 
-- 🔭 I’m currently working on market screening dashboards and trading bots.
-- 🌱 I’m currently learning web development and data science techniques, including deep learning.
+- 🔭 I’m currently working on capital market screening dashboards and algorithmic trading bots.
+- 🌱 I’m currently learning Rust, web 3.0 and data science techniques.
 - 🥅 2021 Goal: Complete my portfolio and enrich my programming skills and tools.
 - 📫 How to reach me: Email!
 - 😄 Pronouns: He/His
