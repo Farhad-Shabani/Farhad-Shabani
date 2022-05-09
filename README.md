@@ -1,12 +1,11 @@
 ### Hi, I'm Farhad Shabani! 👋
 
-## I'm working as an Investment & Data Analyst and Software Engineer!
+## I'm working as a Software Engineer and Investment Analyst!
 
-- 🔭 I’m currently working on developing smart contarcts on Solana and algorithmic trading bots.
-- 🌱 I’m currently learning Rust, web 3.0 and data science related tools & techniques.
+- 🔭 I’m currently working on developing DeFi & web 3.0 applications.
+- 🌱 I use Rust, Javascript and Python related tools & techniques.
 - 🥅 2022 Goal: Complete my portfolio and enrich my programming skills and tools.
 - 📫 How to reach me: Email!
-- 😄 Pronouns: He/His
 
 
 ### Connect with me:
